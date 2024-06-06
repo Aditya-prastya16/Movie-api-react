@@ -95,6 +95,13 @@ const App = () => {
           <PopularMovieList />
         </div>
       </div>
+      <footer className='text-center mt-4'>
+        <p className="text-gray-600">&copy; {new Date().getFullYear()} Nacchan Movie Copyright |   
+        <a className='text-blue-500 underline' href='https://www.instagram.com/aditya.prastyaa/'>
+            aditya.prastyaa  
+        </a>
+        </p>
+      </footer>
     </div>
   );
 }
