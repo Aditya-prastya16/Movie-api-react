@@ -97,7 +97,7 @@ const App = () => {
       </div>
       <footer className='text-center mt-4'>
         <p className="text-gray-600">&copy; {new Date().getFullYear()} Nacchan Movie Copyright |   
-        <a className='text-blue-500 underline' href='https://www.instagram.com/aditya.prastyaa/'>
+        <a className='text-blue-500 underline' href='https://www.instagram.com/aditya.prastyaa/' target='_blank' rel="noopener noreferrer">
             aditya.prastyaa  
         </a>
         </p>
